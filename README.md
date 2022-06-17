@@ -26,4 +26,4 @@ java --enable-native-access=ALL-UNNAMED \
       -Djava.library.path=/usr/local/lib Main.java [elements-size]
 ```
 
-Where's element size is a integer.
+Where's element size is an integer.

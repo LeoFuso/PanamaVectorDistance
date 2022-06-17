@@ -3,7 +3,13 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-.idea/**
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+
 !.idea/runConfigurations/Main.xml
 
 /src/org/**
@@ -32,4 +38,5 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Store!
+
