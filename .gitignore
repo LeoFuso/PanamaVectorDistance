@@ -13,6 +13,7 @@ out/
 !.idea/runConfigurations/Main.xml
 
 /src/org/**
+/src/includes.txt
 *.log
 
 ### Eclipse ###
