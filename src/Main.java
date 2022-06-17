@@ -12,9 +12,9 @@ import static org.distance.distance__m256d_h.manhattan;
 
 public class Main {
 
-    private static final long KILOBYTE = 1024;
-    private static final long MEBIBYTE = KILOBYTE * 1024;
-    private static final long L3_CACHE = 64 * MEBIBYTE;
+    private static final long KIB = 1024;
+    private static final long MIB = KIB * 1024;
+    private static final long L3_CACHE = 64 * MIB;
 
     public static void main(String[] args) {
 
